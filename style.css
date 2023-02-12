@@ -1,0 +1,84 @@
+
+.full-container{
+    background-color: gray;
+    font-family: 'Poppins', sans-serif;
+ }
+.container{
+display: flex;
+height: 500px;
+width: 700px; 
+margin-left: 100px;
+margin-top: 60px;
+background-color: #c2e5f9;
+  }
+.picture{
+    height: 500px;
+    width: 350px;
+    }
+.main1{
+    margin-left: 40px;
+    margin-top: 70px;
+    } 
+.text{
+    color: gray;
+    }
+input[type=text]{
+    margin-top: 5px;
+    width: 250px;
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: #c2e5f9;
+    }
+input [type=text]:active{
+    background-color: #c2e5f9;
+     }
+input[type=password]{
+    margin-top: 5px;
+    width: 250px;
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: #c2e5f9;
+     }
+input [type=password]:active{
+    background-color: #c2e5f9;
+     }
+.forgot{
+    margin-top: 8px;
+    margin-left: 175px;
+    color: gray;
+    font-size: 12px;
+    }
+.btn{
+    border-radius: 18px;
+    border: none;
+    background-color: rgb(133, 129, 129);
+    padding: 8px 36px;
+    font-size: 16px;
+    margin-left: 70px;
+    margin-top: 20px;
+     }
+.hr1{
+    display: inline-block;
+    width: 60px;
+    margin-left: 5px;
+    }
+.hr2{
+    display: inline-block;
+    width: 60px;
+    margin-left: 0;
+    }
+ p{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+button{
+    margin-top: 20px;
+    background-color: #c2e5f9;
+    border: none;
+    font-size: 16px;    
+    }
+.button-group{
+    margin-left: 90px;
+    }
+   
